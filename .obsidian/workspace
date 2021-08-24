@@ -1,0 +1,141 @@
+{
+  "main": {
+    "id": "6b80482d5d5f8bf3",
+    "type": "split",
+    "children": [
+      {
+        "id": "8fc6db40af1ed959",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "- Apple iPhone 12 Pro Max.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0ad01907749f2c53",
+    "type": "split",
+    "children": [
+      {
+        "id": "d38fd46c28fe9ed7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73f972eb29cb3486",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "dfc3b4b79e949915",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#TRL8",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 309
+  },
+  "right": {
+    "id": "b7774a56ae93b40a",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4fb7a129f30758a",
+        "type": "tabs",
+        "dimension": 59.06362545018007,
+        "children": [
+          {
+            "id": "abf68b0e2b56cec3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "acf094770d81e5d2",
+        "type": "tabs",
+        "dimension": 40.936374549819924,
+        "children": [
+          {
+            "id": "a3513c2ef1d54456",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "- Apple iPhone 12 Pro Max.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "2ba930c5bb829d3f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "- Apple iPhone 12 Pro Max.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "00a33d5dd53dc87e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 624
+  },
+  "active": "8fc6db40af1ed959",
+  "lastOpenFiles": [
+    "- Apple iPhone 12 Pro Max.md",
+    "- Tesla Series S (2021).md",
+    "- Samsung Galaxy Z Fold 3 (2021).md",
+    "Portrait Mode.md",
+    "LiDAR (Light Detection and Ranging).md",
+    "Zoom Lens.md",
+    "Untitled.md",
+    "GSM/EDGE.md",
+    "Digital Compass.md",
+    "NFC.md"
+  ]
+}

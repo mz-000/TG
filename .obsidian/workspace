@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "product/- Van Moof S3.md",
+            "file": "product/- Tesla Series S (2021).md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "product/- Van Moof S3.md",
+                "file": "product/- Tesla Series S (2021).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,6 +87,8 @@
   },
   "active": "6ea01d87aa737306",
   "lastOpenFiles": [
+    "product/- Tesla Series S (2021).md",
+    "product/- Apple iPhone 12 Pro Max.md",
     "product/- Van Moof S3.md",
     "technology/Geoblocking.md",
     "technology/E-Commerce.md",
@@ -94,8 +96,6 @@
     "product/- Van Moof.md",
     "technology/Telegraph.md",
     "technology/Morse Code.md",
-    "•/• Connections (Notes).md",
-    "product/- Apple iPhone 12 Pro Max.md",
-    "Palladium.md"
+    "•/• Connections (Notes).md"
   ]
 }

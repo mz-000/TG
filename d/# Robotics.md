@@ -15,7 +15,7 @@ Applications:
 [[Nuclear Fusion Reactor]]
 [[Plantscraper]]
 [[Robot Caregiver]]
-[[Self-driving Vehicle]]
+[[Self-Driving Vehicle]]
 [[Graphene Cytobot]]
 [[Hyperloop®]]
 [[Magnetic Underground Delivery Trail]]

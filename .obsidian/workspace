@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "•/• MZ Import.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "•/• MZ Import.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "6ea01d87aa737306",
   "lastOpenFiles": [
+    "•/• MZ Import.md",
+    "Accelerated Raytracing.md",
     "README.md",
     "Untitled.md",
     "t/Abacus.md",
@@ -95,8 +97,6 @@
     "t/3D Printed Vehicle.md",
     "t/#/Untitled.md",
     "2-Factor Authentication.md",
-    "• Connections (Notes).md",
-    "# Additive Manufacturing.md",
-    "- Apple iPhone 12 Pro Max.md"
+    "• Connections (Notes).md"
   ]
 }

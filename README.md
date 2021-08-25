@@ -17,14 +17,6 @@
 
 ---
 
-#### Directories
-- /• notes
-- /d domains
-- /p products 
-- /t technologies
-
----
-
 #### Tags
 - #Domain 
 - #Technology 

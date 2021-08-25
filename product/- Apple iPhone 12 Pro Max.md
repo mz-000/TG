@@ -67,7 +67,7 @@ Cellular and Wireless
 	[[Gigabit LTE]]
 	[[CDMA EV-DO]]
 	[[UMTS]]
-	[[EDGE]]
+	[[GSM-EDGE]]
 	[[Wi‑Fi 6]]
 	[[Bluetooth 5]]
 	[[Ultra Wideband (UWB)]]

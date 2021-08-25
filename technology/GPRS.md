@@ -1,4 +1,4 @@
 [[4G Mobile Network]]
 [[3G Mobile Network]]
 
-[[EDGE]]
+[[GSM-EDGE]]

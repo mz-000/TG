@@ -7,8 +7,11 @@
         "id": "6ea01d87aa737306",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,6 +88,7 @@
   },
   "active": "6ea01d87aa737306",
   "lastOpenFiles": [
+    "README.md",
     "Untitled.md",
     "t/Abacus.md",
     "t/2-Factor Authentication.md",
@@ -92,7 +97,6 @@
     "2-Factor Authentication.md",
     "• Connections (Notes).md",
     "# Additive Manufacturing.md",
-    "- Apple iPhone 12 Pro Max.md",
-    "GSM/EDGE.md"
+    "- Apple iPhone 12 Pro Max.md"
   ]
 }

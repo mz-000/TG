@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "•/• MZ Import.md",
+            "file": "product/- Van Moof S3.md",
             "mode": "source"
           }
         }
@@ -68,14 +68,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "•/• MZ Import.md",
-                "collapseAll": false,
+                "file": "product/- Van Moof S3.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -83,20 +83,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "6ea01d87aa737306",
   "lastOpenFiles": [
-    "•/• MZ Import.md",
-    "Barometer.md",
-    "technology/Ballpoint Pen.md",
-    "Ballpoint Pen.md",
-    "Accelerated Raytracing.md",
-    "README.md",
-    "Untitled.md",
-    "t/Abacus.md",
-    "t/2-Factor Authentication.md",
-    "t/3D Printed Vehicle.md"
+    "product/- Van Moof S3.md",
+    "technology/Geoblocking.md",
+    "technology/E-Commerce.md",
+    "technology/World Wide Web (WWW).md",
+    "product/- Van Moof.md",
+    "technology/Telegraph.md",
+    "technology/Morse Code.md",
+    "•/• Connections (Notes).md",
+    "product/- Apple iPhone 12 Pro Max.md",
+    "Palladium.md"
   ]
 }

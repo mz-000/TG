@@ -1,4 +1,5 @@
-xDisplay
+
+Display
 	[[Organic Light-Emitting Diode (OLED)]]
 	[[High Dynamic Range (HDR)]]
 	[[Haptic Touch]]
@@ -66,7 +67,7 @@ Cellular and Wireless
 	[[Gigabit LTE]]
 	[[CDMA EV-DO]]
 	[[UMTS]]
-	[[GSM/EDGE]]
+	[[EDGE]]
 	[[Wi‑Fi 6]]
 	[[Bluetooth 5]]
 	[[Ultra Wideband (UWB)]]

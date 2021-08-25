@@ -9,8 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "technology/GSM-EDGE.md",
+            "file": "README.md",
             "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "b4b25869121049a0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technology/GSM-EDGE.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,6 +98,8 @@
   },
   "active": "6ea01d87aa737306",
   "lastOpenFiles": [
+    "README.md",
+    "technology/#/2-Factor Authentication.md",
     "technology/GSM/EDGE.md",
     "product/- Tesla Series S (2021).md",
     "product/- Apple iPhone 12 Pro Max.md",
@@ -94,8 +107,6 @@
     "technology/Geoblocking.md",
     "technology/E-Commerce.md",
     "technology/World Wide Web (WWW).md",
-    "product/- Van Moof.md",
-    "technology/Telegraph.md",
-    "technology/Morse Code.md"
+    "product/- Van Moof.md"
   ]
 }

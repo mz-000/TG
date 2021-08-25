@@ -30,8 +30,10 @@
 - For all new Entires, please indicate at least one Relationship and Source.
 
 ---
+
 ### ToDo
-- [ ] Apply Tags to ~all entries.
+- [ ] Apply taxonomy (Tags) to all entries.
+- [ ] Add sources to all entries.
 - [ ] Create taxonomy for Relationships (currently indicating dependencies and enabling technologies).
 - [ ] Reach consensus/definition about what is meant by *technology*.
 - [ ] Unambigously define how this graph is different from Wikipedia.
@@ -48,9 +50,9 @@
 
 ### Tags
 - #Domain 
-- #Technology 
 - #Application 
 - #Method 
+- #Technology - used to capture unorganized Methods and Applications.
 
 ---
 

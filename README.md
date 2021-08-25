@@ -2,6 +2,8 @@
 
 ## An experiment to identify relationships between technologies.
 
+
+
 ### Objective
 - Index all publically disclosed technologies.
 - Indicate relationships between them, such as dependencies or enablers.
@@ -15,7 +17,10 @@
 ### Instructions
 - Navigate the research by loading this repository locally in [Obsidian](https://obsidian.md).
 - Either [download the Vault](https://github.com/mz-000/TG/archive/refs/heads/main.zip) as a [[ZIP File]] or install a GitHub client on your [[Computer]].
-- Start here: [[Control of Fire]] 🔥
+- After installation, start here: [[Control of Fire]] 🔥
+
+![TG](•/TG.png)
+
 
 ---
 
@@ -27,7 +32,9 @@
 ---
 ### ToDo
 - [ ] Apply Tags to ~all entries.
-- [ ] Create taxonomy for Relationships (currently indicating dependencies)
+- [ ] Create taxonomy for Relationships (currently indicating dependencies and enabling technologies).
+- [ ] Reach consensus/definition about what is meant by *technology*.
+- [ ] Unambigously define how this graph is different from Wikipedia.
 - [ ] Validate 1 Domain with subject-area expert to approve approach.
 
 ---
@@ -46,5 +53,3 @@
 
 ---
 
-
-![TG](•/TG.png)

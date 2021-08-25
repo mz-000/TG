@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8fc6db40af1ed959",
+        "id": "6ea01d87aa737306",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "- Apple iPhone 12 Pro Max.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -52,7 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309
+    "width": 526
   },
   "right": {
     "id": "b7774a56ae93b40a",
@@ -84,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "- Apple iPhone 12 Pro Max.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "- Apple iPhone 12 Pro Max.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,8 +120,9 @@
     "direction": "horizontal",
     "width": 624
   },
-  "active": "8fc6db40af1ed959",
+  "active": "6ea01d87aa737306",
   "lastOpenFiles": [
+    "GSM/EDGE.md",
     "- Apple iPhone 12 Pro Max.md",
     "- Tesla Series S (2021).md",
     "- Samsung Galaxy Z Fold 3 (2021).md",
@@ -134,7 +130,6 @@
     "LiDAR (Light Detection and Ranging).md",
     "Zoom Lens.md",
     "Untitled.md",
-    "GSM/EDGE.md",
     "Digital Compass.md",
     "NFC.md"
   ]

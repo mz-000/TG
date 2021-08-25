@@ -1,0 +1,75 @@
+{
+  "main": {
+    "id": "ac2c59b30718f5af",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f13af76cc99a89a",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4a693df326a6c5b2",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4205f3fd3d0c2281",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "5eda40b17a14f9b5",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "3fff320ff831b29b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "75dc3a5ad0fec80e",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "7f13af76cc99a89a",
+  "lastOpenFiles": [
+    "- Apple iPhone 12 Pro Max.md",
+    "Untitled.md"
+  ]
+}

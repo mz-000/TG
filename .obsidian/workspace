@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "technology/Simulator.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technology/Simulator.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "a964557440035fcb",
   "lastOpenFiles": [
+    "README.md",
+    "•/• Connections (Notes).md",
+    "product/- Ola Scooter (2021).md",
     "Simulator.md",
     "technology/Emulator.md",
     "product/- Apple iPhone 12 Pro Max (2020).md",
     "product/Untitled.md",
     "Untitled.md",
     "product/- Toyota Woven City (2021).md",
-    "product/- Tesla Series S (2021).md",
-    "product/- Samsung Galaxy Z Fold 3 (2021).md",
-    "product/- Playdate (2021).md",
-    "Hydrogen Engine.md"
+    "product/- Tesla Series S (2021).md"
   ]
 }

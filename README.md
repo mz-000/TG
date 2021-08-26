@@ -35,10 +35,15 @@
 - [ ] Apply taxonomy (Tags) to all entries.
 - [ ] Add sources to all entries.
 - [ ] Create taxonomy for Relationships (currently indicating dependencies and enabling technologies).
-- [ ] Reach consensus/definition about what is meant by *technology*.
-- [ ] Unambigously define how this graph is different from Wikipedia.
-- [ ] Validate 1 Domain with subject-area expert to approve approach.
+- [ ] Unambigously definie what is meant by *technology*.
+- [ ] Unambigously define how the scope of this graph is different from Wikipedia.
+- [ ] Validate research approach with subject-area experts.
+	- [ ] Domain experts.
+	- [ ] Data & network experts.
 - [ ] Determine long-term solution for funding & maintaining research.
+- [ ] Eliminate #Domain taxonomy and replace it with connections between Technologies.
+- [ ] Eliminate #Technology tag and replace it with #Application or #Method 
+- [ ] Define distinction between #Application and #Method 
 
 ---
 

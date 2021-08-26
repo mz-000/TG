@@ -7,11 +7,8 @@
         "id": "a964557440035fcb",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "technology/Adversarial Machine Learning.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technology/Adversarial Machine Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +84,7 @@
   },
   "active": "a964557440035fcb",
   "lastOpenFiles": [
+    "product/- Apple iPhone 12 Pro Max (2020).md",
     "technology/Adversarial Machine Learning.md",
     "technology/Advanced Self-healing Software.md",
     "technology/Adding Machine.md",
@@ -96,7 +93,6 @@
     "technology/Active RFID Tag.md",
     "Vertical City.md",
     "domain/# Electronics.md",
-    "domain/# Drone.md",
-    "domain/# Computing.md"
+    "domain/# Drone.md"
   ]
 }

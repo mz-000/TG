@@ -1,3 +1,9 @@
+https://news.ycombinator.com/item?id=28299053
+
+
+
+---
+
 [[Accelerated Raytracing]]	NVidia	
 [[Acheulean Stone Technology (Hand Axe)]]
 [[AI-generated Art]]	

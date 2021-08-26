@@ -42,12 +42,6 @@
 
 ---
 
-### About
-- An Envisioning initiative by Michell Zappa.
-- Find out more on https://envisioning.io/welcome -> #tg
-
----
-
 ### Tags
 - #Domain 
 - #Application 
@@ -56,3 +50,6 @@
 
 ---
 
+### About
+- An Envisioning initiative by Michell Zappa.
+- Find out more on https://envisioning.io/welcome -> #tg

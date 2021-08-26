@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "technology/Metamaterial.md",
+            "file": "technology/Secure Multi-Party Computation (SMPC).md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technology/Metamaterial.md",
+                "file": "technology/Secure Multi-Party Computation (SMPC).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "a964557440035fcb",
   "lastOpenFiles": [
+    "technology/Secure Multi-Party Computation (SMPC).md",
+    "technology/Cryptography.md",
+    "README.md",
     "technology/Metamaterial.md",
     "technology/Structured fabrics with tunable mechanical properties.md",
     "Metamaterials.md",
     "Untitled.md",
     "Robotic Arm.md",
     "technology/Collaborative Robot (Cobot).md",
-    "Android.md",
-    "Android, Gynoid.md",
-    "product/- CACHED.id.md",
-    "technology/Untitled.md"
+    "Android.md"
   ]
 }

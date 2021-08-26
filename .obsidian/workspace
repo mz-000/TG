@@ -7,82 +7,73 @@
         "id": "f93f82db28860b80",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "technology/Beamforming.md",
+            "mode": "source"
+          }
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "28f2782bd56cffb8",
-    "type": "split",
+    "id": "ea666f78e66788be",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "35fccce672f56c5a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9fad41a3cab51a82",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "a50210b3c98e42e9",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
+        "id": "b81032aa9195f631",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "eeca2199f008bd0a",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "3f43592e9420df2c",
-    "type": "split",
+    "id": "082c74aa119367e9",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "a08574d10b65eecb",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fe4752ab6c41fdbc",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": true,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": true,
-                "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": false
-              }
-            }
+        "id": "5cc61d1e21565539",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "technology/Beamforming.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "active": "f93f82db28860b80",
   "lastOpenFiles": [
+    "technology/Untitled.md",
     "README.md",
     "Reader Mode.md",
     "ZIP File.md",
@@ -91,7 +82,6 @@
     "technology/GSM/EDGE.md",
     "product/- Tesla Series S (2021).md",
     "product/- Apple iPhone 12 Pro Max.md",
-    "product/- Van Moof S3.md",
-    "technology/Geoblocking.md"
+    "product/- Van Moof S3.md"
   ]
 }

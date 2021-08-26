@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "•/• MZ Import.md",
+            "file": "product/- CACHED.id.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "•/• MZ Import.md",
+                "file": "product/- CACHED.id.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "a964557440035fcb",
   "lastOpenFiles": [
+    "product/- CACHED.id.md",
+    "Portable Document Format (PDF).md",
+    "Untitled.md",
+    "product/- Ola Scooter.md",
     "•/• MZ Import.md",
     "Algebra.md",
     "technology/Accelerated Raytracing.md",
     "technology/Cloud Computing.md",
     "Multicloud.md",
-    "Cloud Computing.md",
-    "Quantum Computer.md",
-    "Untitled.md",
-    "•/• Gartner 2021.md",
-    "•/emerging-tech-roadmap-le-2020-2022.png"
+    "Cloud Computing.md"
   ]
 }

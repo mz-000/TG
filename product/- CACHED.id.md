@@ -1,0 +1,12 @@
+- [[LWC]] ?
+- [[Sentiment Detection]]
+- [[OpenID]]
+- [[Social Login]]
+- [[Machine Learning Translation]]
+- [[Personality Insights]] (IBM)
+- [[Life Satisfaction]] (Cambridge)
+- Apply Magic Sauce?
+- [[Myers-Briggs Type Indicator (MBTI)]]
+- [[Thermal Printer]]
+- [[Portable Document Format (PDF)]]
+- 

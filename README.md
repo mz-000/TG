@@ -40,18 +40,18 @@
 - [ ] Validate research approach with subject-area experts.
 	- [ ] Domain experts.
 	- [ ] Data & network experts.
-- [ ] Determine long-term solution for funding & maintaining research.
+- [ ] Determine long-term solution for funding & maintaining research initative.
 - [ ] Eliminate #Domain taxonomy and replace it with connections between Technologies.
 - [ ] Eliminate #Technology tag and replace it with #Application or #Method 
-- [ ] Define distinction between #Application and #Method 
+- [ ] Unambigously distinguish #Application from #Method.
 
 ---
 
 ### Tags
-- #Domain 
-- #Application 
-- #Method 
-- #Technology - used to capture unorganized Methods and Applications.
+- #Method - how technology is done.
+- #Application - what technology is used for.
+- #Technology (deprecated)
+- #Domain (deprecated)
 
 ---
 

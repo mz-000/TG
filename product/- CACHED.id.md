@@ -2,11 +2,16 @@
 - [[Sentiment Detection]]
 - [[OpenID]]
 - [[Social Login]]
+- [[Social Media Feed]]
 - [[Machine Learning Translation]]
-- [[Personality Insights]] (IBM)
-- [[Life Satisfaction]] (Cambridge)
-- Apply Magic Sauce?
-- [[Myers-Briggs Type Indicator (MBTI)]]
+- [[Natural Language Understanding]]
+- [[Interpretable Artificial Inteligence]]
+
+- [[Prediction API]]
+
 - [[Thermal Printer]]
 - [[Portable Document Format (PDF)]]
+
+- [[Big Five Personality Model]]
+- [[Myers-Briggs Type Indicator (MBTI)]]
 

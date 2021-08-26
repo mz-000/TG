@@ -12,9 +12,9 @@
 [[Arrow]]
 [[Artificial Refrigeration Machine]]
 [[Artificial Reservoirs]]
-[[Audio-to-face Modeling]] (Jarvis)	NVidia	
-[[Auto Labeling]] (AI)
-[[Automated Voice Cloning]]	NVidia	
+[[Audio-to-face Modeling]] 	
+[[Auto Labeling]] 
+[[Automated Voice Cloning]]		
 [[Automatic Speech Recognition]]	
 [[Automatic Text Replacement / Autofill]]
 [[Autopilot]]

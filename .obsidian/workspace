@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "technology/Noisy Intermediate-Scale Quantum Devices (NISQ).md",
+            "file": "•/• Gartner 2021.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technology/Noisy Intermediate-Scale Quantum Devices (NISQ).md",
+                "file": "•/• Gartner 2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "a964557440035fcb",
   "lastOpenFiles": [
+    "•/• Gartner 2021.md",
+    "•/emerging-tech-roadmap-le-2020-2022.png",
+    "Untitled.md",
+    "•/• MZ Import.md",
+    "•/• Wikipedia Hypothetical Tech.md",
+    "Quantum Computer.md",
     "technology/Noisy Intermediate-Scale Quantum Devices (NISQ).md",
     "Quantum Computing.md",
     "technology/NISQ.md",
-    "•/• MZ Import.md",
-    "•/• Connections (Notes).md",
-    "conflict-files-obsidian-git.md",
-    "•/• Connections (Wikipedia).md",
-    "NISQ.md",
-    "README.md",
-    "Untitled.md"
+    "•/• Connections (Notes).md"
   ]
 }

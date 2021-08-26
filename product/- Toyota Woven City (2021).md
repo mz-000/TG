@@ -18,9 +18,11 @@ The buildings will be constructed mostly from [[wood]], [[solar panels]] will [[
 
 The city will feature three types of streets: one for [[faster vehicles]] only, another for just pedestrians, and the third for a mix of pedestrians and people using [[slower personal mobility vehicles]] (presumably, [[scooters]] and [[bikes]]).
 
-These streets will be woven into an organic grid pattern that Toyota hopes will facilitate the testing of autonomous vehicles.
+These streets will be woven into an organic grid pattern that Toyota hopes will facilitate the testing of [[autonomous vehicles]].
 
 “Building a complete city from the ground up, even on a small scale like this, is a unique opportunity to develop future technologies, including a digital operating system for the city’s infrastructure,” Toyota President Akio Toyoda said when announcing the futuristic city in 2020.
+
+
 Living in Woven City
 
 Initially, the futuristic city will be populated by just 360 people — mostly a mix of inventors, senior citizens, and young families — but eventually, the population will grow to 2,000, according to Toyota.

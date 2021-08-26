@@ -38,7 +38,7 @@
 - [ ] Reach consensus/definition about what is meant by *technology*.
 - [ ] Unambigously define how this graph is different from Wikipedia.
 - [ ] Validate 1 Domain with subject-area expert to approve approach.
-- [ ] Figure out how to fund & maintain the research long term.
+- [ ] Determine long-term solution for funding & maintaining research.
 
 ---
 

@@ -1,4 +1,4 @@
-- [[LWC]] ?
+- [[computerized text analysis]]
 - [[Sentiment Detection]]
 - [[OpenID]]
 - [[Social Login]]
@@ -9,4 +9,4 @@
 - [[Myers-Briggs Type Indicator (MBTI)]]
 - [[Thermal Printer]]
 - [[Portable Document Format (PDF)]]
-- 
+

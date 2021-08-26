@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "technology/Carbon Air Capture.md",
+            "file": "E-Ink Display.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technology/Carbon Air Capture.md",
+                "file": "E-Ink Display.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "a964557440035fcb",
   "lastOpenFiles": [
+    "E-Ink Display.md",
+    "product/Untitled.md",
+    "product/- Apple iPhone 12 Pro Max.md",
     "Carbon Air Capture.md",
     "technology/CO2 Capture Power Plant.md",
     "technology/Secure Multi-Party Computation (SMPC).md",
     "technology/Cryptography.md",
     "README.md",
     "technology/Metamaterial.md",
-    "technology/Structured fabrics with tunable mechanical properties.md",
-    "Metamaterials.md",
-    "Untitled.md",
-    "Robotic Arm.md"
+    "technology/Structured fabrics with tunable mechanical properties.md"
   ]
 }

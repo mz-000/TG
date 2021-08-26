@@ -88,7 +88,7 @@ Connectivity
 	[[Voice over LTE (VoLTE)]]
 	[[Wi‑Fi calling]]
 	[[Microphone]]
-	[[Speaker]]
+	[[Loudspeaker]]
 	[[Voice Recognition]]
 	[[Hands-Free Voice Activation]]
 	[[Nano‑SIM]]

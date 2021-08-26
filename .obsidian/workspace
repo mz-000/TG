@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Metamaterial.md",
+            "file": "technology/Metamaterial.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Metamaterial.md",
+                "file": "technology/Metamaterial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "a964557440035fcb",
   "lastOpenFiles": [
+    "technology/Metamaterial.md",
+    "technology/Structured fabrics with tunable mechanical properties.md",
     "Metamaterials.md",
     "Untitled.md",
     "Robotic Arm.md",
@@ -95,8 +97,6 @@
     "Android.md",
     "Android, Gynoid.md",
     "product/- CACHED.id.md",
-    "technology/Untitled.md",
-    "Portable Document Format (PDF).md",
-    "product/- Ola Scooter.md"
+    "technology/Untitled.md"
   ]
 }

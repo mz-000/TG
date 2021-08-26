@@ -3,7 +3,6 @@
 > The [cobots patent](https://patents.google.com/patent/US5952796) makes the supporting role clearer: cobots guide, redirect, or steer motions that originate with the person.
 
 
-
-
+[[Robotic Arm]]
 [[Robot]]
 [[Soft Robot]]

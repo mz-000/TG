@@ -5,7 +5,7 @@
 [[Ambient Intelligence]]
 [[Americium Battery]]
 [[Amorphous Metal]]
-[[Android, Gynoid]]
+[[Android]]
 
 [[Artificial Brain]]
 [[Artificial General Intelligence]]
@@ -95,7 +95,7 @@
 [[Mass Driver]]
 
 [[Metal Foam]]
-[[Metamaterials]]
+[[Metamaterial]]
 [[Microfluidics]]
 [[Molecular Electronics]]
 [[Molecular Nanotechnology, Nanorobotics]]

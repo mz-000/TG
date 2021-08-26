@@ -15,7 +15,14 @@
 [[Real-Time Incident Center-aaS]]
 [[Active Metadata Management]]
 [[Digital Human]]
-[[Multiexpe]]
+[[Multiexperience]]
+[[Generative AI]]
+[[Composable Application]]
+[[Employee Communications Application]]
+[[AI Agumented Software Engineering]]
+[[Non-Fungible Token (NFT)]]
+[[Data Fabric]]
+[[Decentralized Identity]]
 
 
 ![[Gartner Emerging 2021.png]]

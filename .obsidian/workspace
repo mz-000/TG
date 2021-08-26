@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "product/- Playdate (2021).md",
+            "file": "•/• Gartner 2021.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "product/- Playdate (2021).md",
+                "file": "•/• Gartner 2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "a964557440035fcb",
   "lastOpenFiles": [
+    "•/• Gartner 2021.md",
+    "•/• Connections (Notes).md",
+    "domain/# Additive Manufacturing.md",
+    "product/- Van Moof S3.md",
     "product/- Playdate (2021).md",
     "Downloadable Content (DLC).md",
     "Crank.md",
     "product/- CACHED.id.md",
     "E-Ink Display.md",
-    "product/Untitled.md",
-    "product/- Apple iPhone 12 Pro Max.md",
-    "Carbon Air Capture.md",
-    "technology/CO2 Capture Power Plant.md",
-    "technology/Secure Multi-Party Computation (SMPC).md"
+    "product/Untitled.md"
   ]
 }

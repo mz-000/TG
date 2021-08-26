@@ -128,7 +128,7 @@
 [[Propellant Depot]]
 [[Pulse Detonation Engine]]
 [[Pulse Detonation Engine]]
-[[Quantum Computing]]
+[[Quantum Computer]]
 [[Quantum Cryptography]]
 [[Quantum Dots]]
 [[Quantum Radar]]

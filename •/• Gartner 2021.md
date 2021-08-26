@@ -1,5 +1,23 @@
 # Emerging Tech
 
+[[Quantum ML]]
+[[Named Data Networking]]
+[[Physics-Informed AI]]
+[[Digital Platform Conductor Tool]]
+[[AI-Augmented Design]]
+[[Influence Engineering]]
+[[Machine-Readable Legislation]]
+[[Sovereign Cloud]]
+[[Homomorphic Encryption]]
+[[Self-Integrating Applications]]
+[[Composable Network]]
+[[Decentralized Finance]]
+[[Real-Time Incident Center-aaS]]
+[[Active Metadata Management]]
+[[Digital Human]]
+[[Multiexpe]]
+
+
 ![[Gartner Emerging 2021.png]]
 
 

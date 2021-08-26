@@ -19,7 +19,7 @@
 - Either [download the Vault](https://github.com/mz-000/TG/archive/refs/heads/main.zip) as a [[ZIP File]] or install a GitHub client on your [[Computer]].
 - After installation, start here: [[Control of Fire]] 🔥
 
-![TG](•/TG.png)
+![TG](TG.png)
 
 
 ---

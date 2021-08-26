@@ -15,3 +15,5 @@
 - [[Big Five Personality Model]]
 - [[Myers-Briggs Type Indicator (MBTI)]]
 
+- [[Multi-Touch LCD Screen]]
+- [[Computer]] [[Single-Board Computer]]

@@ -1,4 +1,4 @@
-- [[computerized text analysis]]
+- [[Computerized Text Analysis]]
 - [[Sentiment Detection]]
 - [[OpenID]]
 - [[Social Login]]

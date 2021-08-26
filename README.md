@@ -6,7 +6,7 @@
 
 ### Objective
 - Index all publically disclosed technologies.
-- Indicate relationships between them, such as dependencies or enablers.
+- Indicate relationships between them, such as dependencies or enablers
 - Create a comprehensive knowledge graph of the [technium](https://kk.org/thetechnium/the-seventh-kin/).
 - Provide a standardized framework around which anyone can analyze the *technologial ecosystem*.
 - Help non-experts undertand the *nature* of technology and its fundamental interconnectedness.

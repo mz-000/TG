@@ -7,8 +7,11 @@
         "id": "a964557440035fcb",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "product/- Toyota Woven City.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "product/- Toyota Woven City.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,6 +88,8 @@
   },
   "active": "a964557440035fcb",
   "lastOpenFiles": [
+    "product/Untitled.md",
+    "README.md",
     "•/• Gartner 2021.md",
     "•/• Connections (Notes).md",
     "domain/# Additive Manufacturing.md",
@@ -91,8 +97,6 @@
     "product/- Playdate (2021).md",
     "Downloadable Content (DLC).md",
     "Crank.md",
-    "product/- CACHED.id.md",
-    "E-Ink Display.md",
-    "product/Untitled.md"
+    "product/- CACHED.id.md"
   ]
 }

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "technology/Distortion.md",
+            "file": "product/- CACHED.id (2019).md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technology/Distortion.md",
+                "file": "product/- CACHED.id (2019).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "a964557440035fcb",
   "lastOpenFiles": [
+    "product/- CACHED.id (2019).md",
+    "product/- Apple iPhone 12 Pro Max (2020).md",
     "technology/Untitled 2.md",
     "technology/Untitled 1.md",
     "technology/Untitled.md",
@@ -95,8 +97,6 @@
     "technology/Keyboard.md",
     "technology/Extended City Map.md",
     "technology/Visual Voicemail.md",
-    "product/- Apple iPhone 12 Pro Max (2020).md",
-    "technology/Adversarial Machine Learning.md",
-    "technology/Advanced Self-healing Software.md"
+    "technology/Adversarial Machine Learning.md"
   ]
 }

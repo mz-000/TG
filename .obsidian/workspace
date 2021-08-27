@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "technology/Keyboard.md",
+            "file": "technology/Distortion.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technology/Keyboard.md",
+                "file": "technology/Distortion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "a964557440035fcb",
   "lastOpenFiles": [
-    "technology/Keyboard.md",
+    "technology/Untitled 2.md",
+    "technology/Untitled 1.md",
     "technology/Untitled.md",
+    "Untitled.md",
+    "technology/Keyboard.md",
     "technology/Extended City Map.md",
     "technology/Visual Voicemail.md",
     "product/- Apple iPhone 12 Pro Max (2020).md",
     "technology/Adversarial Machine Learning.md",
-    "technology/Advanced Self-healing Software.md",
-    "technology/Adding Machine.md",
-    "technology/Adaptable Production.md",
-    "technology/Activity Sensor.md"
+    "technology/Advanced Self-healing Software.md"
   ]
 }
